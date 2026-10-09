@@ -1,0 +1,102 @@
+{
+    "estudio": "Benchmarking de Canales de Atención 2026 (Parte II)",
+    "entidad": "ADELAT - Comité de Mercados",
+    "fecha_publicacion": "Julio 2026",
+    "muestra_empresas": 20,
+    "paises_participantes": 9,
+    "total_preguntas": 28,
+    "indices_globales": {
+        "indice_global_adelat": {
+            "media": 3.35,
+            "q1": 3.11,
+            "mediana": 3.35,
+            "q3": 3.58,
+            "max": 4.78
+        },
+        "eje_a_pqr_satisfaccion": {
+            "media": 3.69,
+            "q1": 3.25,
+            "mediana": 3.69,
+            "q3": 4.0,
+            "max": 5.0
+        },
+        "eje_b_tecnologia_analitica": {
+            "media": 3.08,
+            "q1": 3.0,
+            "mediana": 3.08,
+            "q3": 3.29,
+            "max": 4.6
+        }
+    },
+    "podio_regional": [
+        {
+            "puesto": 1,
+            "empresa": "Chilquinta Energía",
+            "pais": "Chile",
+            "indice": 4.78
+        },
+        {
+            "puesto": 2,
+            "empresa": "EDESUR",
+            "pais": "Argentina",
+            "indice": 4.33
+        },
+        {
+            "puesto": 3,
+            "empresa": "ESSA",
+            "pais": "Colombia",
+            "indice": 4.11
+        }
+    ],
+    "metricas_operativas_clave": {
+        "fcr_resolucion_primer_contacto": {
+            "mediana_porcentaje": 75,
+            "q1": 65,
+            "q3": 84,
+            "min": 40,
+            "max": 95,
+            "empresas_que_miden": "11/20"
+        },
+        "pqr_por_1000_clientes_ano": {
+            "mediana": 16,
+            "q1": 6,
+            "q3": 99,
+            "min": 0.07,
+            "max": 258
+        },
+        "tiempo_respuesta_pqr_dias": {
+            "mediana": 7,
+            "q1": 3,
+            "q3": 15,
+            "min": 3,
+            "max": 30
+        },
+        "autogestion_contactos_sin_agente": {
+            "mediana_porcentaje": 52,
+            "q1": 27,
+            "q3": 74,
+            "min": 5,
+            "max": 95
+        },
+        "alertas_cortes_no_programados": {
+            "empresas_que_avisan": "9/20",
+            "porcentaje": 45.0
+        },
+        "factura_digital": {
+            "empresas": "19/20",
+            "porcentaje": 95.0
+        },
+        "analitica_predictiva_puntuacion": {
+            "media": 2.25,
+            "max_escala": 5.0
+        },
+        "automatizacion_atencion_puntuacion": {
+            "media": 2.5,
+            "max_escala": 5.0
+        },
+        "hoja_ruta_tecnologica_puntuacion": {
+            "media": 3.8,
+            "max_escala": 5.0
+        }
+    }
+}
